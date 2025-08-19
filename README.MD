@@ -1,36 +1,20 @@
-# 🚀 GitHub User Finder
+# 🚀 GitHub User Finder  
 
-A modern, responsive web app built with **HTML**, **Tailwind CSS**, and **Vanilla JavaScript** that allows you to search for any GitHub user and view their profile details in a clean and professional dark-themed UI.
-
----
-
-## ✨ Features
-- 🔍 Search GitHub users by username  
-- 👤 Display user profile information (avatar, name, bio, username)  
-- 📊 Show key stats: repositories, followers, following  
-- 🌍 Extra details: company, location, blog link, joined date  
-- 🎨 Dark theme inspired by GitHub’s UI  
-- ⚡ Powered by the GitHub REST API  
+A modern web app built with **HTML**, **Tailwind CSS**, and **Vanilla JS** that lets you search GitHub users and view their profile in a clean dark UI.  
+Displays avatar, bio, repos, followers, following, company, location, blog, and join date. Powered by the **GitHub REST API**.  
 
 ---
 
-## 🛠️ Tech Stack
-- **HTML5**
-- **Tailwind CSS** (for modern styling)
-- **Vanilla JavaScript** (for API integration & DOM updates)
-- **GitHub REST API**
+## 📖 Getting Started  
 
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
+### 1. Clone the repository  
 ```bash
 git clone https://github.com/Parnava-Ghosh/Github-User-Finder.git
 
-2. Navigate into the project
+### 2. Navigate into the project
 cd Github-User-Finder
 
-3. Open index.html
+### 3. Open the project
 
 Simply open index.html in your browser to run the project.
 
@@ -46,7 +30,3 @@ Improve error handling for invalid users
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork the repo and submit a pull request.
-
-📄 License
-
-This project is licensed under the MIT License – you’re free to use, modify, and distribute it.
