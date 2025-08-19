@@ -2,6 +2,10 @@
 
 A modern, responsive web app built with **HTML**, **Tailwind CSS**, and **Vanilla JavaScript** that allows you to search for any GitHub user and view their profile details in a clean and professional dark-themed UI.
 
+## 🌐 Live Demo
+Check out the project here:
+[GitHub User Finder] (https://parnava-ghosh.github.io/Github-User-Finder/)
+
 ---
 
 ## ✨ Features
@@ -19,11 +23,6 @@ A modern, responsive web app built with **HTML**, **Tailwind CSS**, and **Vanill
 - **Tailwind CSS** (for modern styling)
 - **Vanilla JavaScript** (for API integration & DOM updates)
 - **GitHub REST API**
-
----
-
-## 📸 Preview
-(Add a screenshot or GIF of your project here)
 
 ---
 
